@@ -17,7 +17,7 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "Aman",
+  name: "Aman Sharma.",
   headerTagline: [
     //Line 1 For Header
     "Building digital",

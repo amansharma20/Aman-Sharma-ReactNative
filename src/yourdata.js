@@ -20,82 +20,115 @@ export default {
   name: "Aman",
   headerTagline: [
     //Line 1 For Header
-    "Building digital",
+    "A React Native Developer.",
     //Line 2 For Header
-    "products, brands,",
+    "Putting his creativity on the",
     //Line 3 For Header
-    "and experience",
+    "Development Highway.",
   ],
   //   Header Paragraph
-  headerParagraph:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+  headerParagraph: [
+    "Crafting and architecting mobile apps ",
+    "which makes people’s life easy and adds value to their life.",
+  ],
 
   //Contact Email
-  contactEmail: "hello@chetanverma.com",
+  contactEmail: "amanacts20@gmail.com",
+  contactNumber: "amanacts20@gmail.com",
 
   // End Header Details -----------------------
 
   // Work Section ------------------------
   projects: [
     {
-      title: "Project One", //Project Title - Add Your Project Title Here
+      title: "DreamFolks", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Dream Folks allows users book lounges at airports of their across India to any other airport.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://www.cardexpert.in/wp-content/uploads/2017/12/DreamFolks-DragonPass-Card.jpg",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://play.google.com/store/apps/details?id=in.dreamfolks&hl=en_US&gl=US",
     },
     {
-      title: "Project Two", //Project Title - Add Your Project Title Here
+      title: "Buddy Cabs", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Buddy Cabs helps you book cabs across Delhi-Ncr. Specially for people belonging to old age group and disabilities.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+        "https://eshedotin2.files.wordpress.com/2021/04/sartaj-lamba-buddy-cabs-1.jpg?w=1024",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://play.google.com/store/apps/details?id=com.buddy_cabs.buddy_cabs&hl=en_US&gl=US",
     },
     {
-      title: "Project Three", //Project Title - Add Your Project Title Here
+      title: "BioMedonics - Sickle Scan", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Uses image classification models to detect medical tests kits' results.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://www.biomedomics.com/wp-content/uploads/2019/06/sicklescan3.png",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://github.com/amansharma20/SickleScan",
     },
     {
-      title: "Project Four", //Project Title - Add Your Project Title Here
+      title: "NBT - National Book Trust India.", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Built for the Government of India to represent their book trusts’ catalogue. Order a hard copy of the book or read the E-Book in the app itself.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://i.ibb.co/XppM5pz/92.png",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://www.nbtindia.gov.in/",
     },
     {
-      title: "Project Five", //Project Title - Add Your Project Title Here
+      title: "Gallant Sportss", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Gallant Sports helps you book arenas for all kinds of indoor and outdoor sports all across India", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://www.gallantsports.in/wp-content/uploads/photo-gallery/imported_from_media_libray/InShot_20201117_123830163.jpg?bwg=1610442817",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://github.com/amansharma20/GallantSportsPublic",
     },
     {
-      title: "Project Six", //Project Title - Add Your Project Title Here
+      title: "Budget Guru", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Track your expenses and allocate them to separate categories.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+        "https://i.ibb.co/72tKQCw/bgcrop.png",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://github.com/amansharma20/BudgetGuruPublic",
+    },
+    {
+      title: "Leo", //Project Title - Add Your Project Title Here
+      para:
+        "LEO brings the best offers on your credit cards to you. Purchase within the app or redirect to the seller site.", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        "https://i.ibb.co/R2jLKvx/Leo-Home-1-crop.png",
+      //Project URL - Add Your Project Url Here
+      url: "https://github.com/amansharma20/LeoPublic-Credit-Card-offers",
+    },
+    {
+      title: "Wealth-Zi", //Project Title - Add Your Project Title Here
+      para:
+        "Analyse your finances, and help you achieve your wealth goals. Buy Mutual Funds.", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        "https://i.ibb.co/ZcnyRRr/splash-3.png",
+      //Project URL - Add Your Project Url Here
+      url: "https://github.com/amansharma20/WealthZiPublic-FinTech-App",
+    },
+    {
+      title: "Riddari", //Project Title - Add Your Project Title Here
+      para:
+        "Timesheet app for a security organization.", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        "https://www.primeis.com/wp-content/uploads/2017/12/GettyImages-471852401-844x298.jpg",
+      //Project URL - Add Your Project Url Here
+      url: "https://play.google.com/store/apps/details?id=ca.riddari&hl=en_US&gl=US",
     },
 
     /*
@@ -113,13 +146,38 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "I like dabbling in various parts of development and like to learn about new technologies, write technical articles or simply lift heavy weights.",
   aboutParaTwo:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "",
   aboutParaThree:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "",
   aboutImage:
-    "https://images.unsplash.com/photo-1519713958759-6254243c4a53?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+    "https://i.ibb.co/BrN3Kgq/IMG-0091.jpg",
+
+  // Expereince 
+
+  companyName: "Webority Technologies",
+  designation: "React Native Developer",
+  duration: "March 2021 - December 2021",
+  description: "Successfully completed complex full-fledged projects whilst managing a team of a number of people.",
+  description2: "Delivered the projects as per scheduled deadlines.",
+  description3: "Implementing the pixel-perfect UI and lots of functionalities for each of the apps mentioned above.",
+  description4: "Starting the projects from scratch and leading ahead in a collaborative manner.",
+  description5: "Working with REST and graphQl APIs.",
+  description6: "Creating Custom Reusable Components wherever necessary to increase the overall productivity and team's efficiency.",
+  description7: "Cooperating & communicating with other team members for efficient management.",
+
+  // Education
+
+  college: "KIIT College of Engineering",
+  course: "Bachelor of Technology in Computer Science",
+  eduDuration: "Expected 2022",
+  eduDescription: "Went for the degree but learnt from the Internet.",
+
+  school: "Rotary International | Gurgaon",
+  schoolType: "High School",
+  schoolFinishDate: "2018",
+  schoolDescription: "A Mould.",
 
   //   End About Section ---------------------
 
@@ -129,34 +187,42 @@ export default {
 
   skills: [
     {
-      img: htmlIcon,
+      img: reactIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "React Native",
     },
     {
-      img: cssIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      img: "https://i.ibb.co/h7ZxvHR/redux.png",
+      para: "Redux",
     },
     {
       img: jsIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Javascript",
     },
     {
-      img: reactIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      img: "https://react-etc.net/files/2016-06/apollo.png",
+      para: "Apollo",
     },
     {
-      img: designIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      img: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseekicon.com%2Ffree-icon-download%2Ffirebase-icon_1.png&f=1&nofb=1",
+      para: "Firebase",
     },
     {
-      img: codeIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      img: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc0.wallpaperflare.com%2Fpreview%2F612%2F310%2F555%2Fposts-android-system-icon.jpg&f=1&nofb=1",
+      para: "Android Studio",
+    },
+    {
+      img: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Y-y2Jxn15MiwgiRKI0tmkgHaHa%26pid%3DApi&f=1",
+      para: "Graph Ql",
+    },
+    {
+      img: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.b09v9yz6uDY3FbyMVJPhHQHaEi%26pid%3DApi&f=1",
+      para: "Node JS",
+    },
+    {
+      img: "https://i.ibb.co/6RXB981/git.png",
+      para: "Git",
     },
   ],
 
@@ -171,21 +237,17 @@ export default {
 
   //   Contact Section --------------
 
-  contactSubHeading: "Let's create your next experience together",
+  contactSubHeading: "Lets you put your ideas in motion.",
   social: [
     // Add Or Remove The Link Accordingly
-    { img: githubIcon, url: "https://github.com/chetanverma16" },
+    { img: githubIcon, url: "https://github.com/amansharma20" },
     {
-      img: codepenIcon,
-      url: "https://www.codepen.com/",
+      img: "https://cdn3.iconfinder.com/data/icons/2018-social-media-black-and-white-logos/1000/2018_social_media_popular_app_logo_linkedin-512.png",
+      url: "https://www.linkedin.com/in/amanxsharma20/",
     },
     {
-      img: dribbbleIcon,
-      url: "https://dribbble.com/chetanverma",
-    },
-    {
-      img: instagramIcon,
-      url: "https://www.instagram.com/",
+      img: "https://cdn.onlinewebfonts.com/svg/img_152340.png",
+      url: "https://twitter.com/amanxsharma",
     },
   ],
 

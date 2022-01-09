@@ -37,7 +37,7 @@ const Header = () => {
             </div>
           </Fade>
           <Fade bottom>
-            <p>{data.headerParagraph}</p>
+            <p>{data.headerParagraph[0]} <br></br> {data.headerParagraph[1]} </p>
           </Fade>
           <Fade bottom>
             <a
